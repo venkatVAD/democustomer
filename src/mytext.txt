@@ -1,0 +1,19 @@
++------------------------------+-----------------+
+|             Name             |      Value      |
++------------------------------+-----------------+
+|  AverageMotorStatorCurrent   |        0        |
+|   AverageMotorPhaseVoltage   |       0.0       |
+|         Target Trque         |       0.0       |
+|     Motor Actual Torque      |       0.0       |
+|   Proportional Speed Limit   |        0        |
+|          Motor RPM           |        0        |
+|  Calculated Battery Current  |       0.0       |
+| Controller Capacitor Voltage |     105.375     |
+|        Throttle input        |    0.0703125    |
+|          Motor Temp          |       54        |
+|    Controller Temperature    |       36        |
+|      Distance travelled      | 135225.50390625 |
+|        Forward switch        |        0        |
+|        Reverse Switch        |        0        |
+|         Seat Switch          |        1        |
++------------------------------+-----------------+

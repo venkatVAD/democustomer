@@ -1,0 +1,9 @@
+<launch>
+
+  
+  <node pkg="demo_customer-main" name="mobile_subscriber" type="ros_mobile_can.py" output="screen"> 
+  <node pkg="demo_customer-main" name="mobile_subscriber" type="steering.py" output="screen">
+  <node pkg="demo_customer-main" name="mobile_subscriber" type="zero.py" output="screen">
+
+</launch>
+
